@@ -7,7 +7,7 @@
   "use strict";
 
   /* ── Konstanta ── */
-  const PER_PAGE = 5;
+  const PER_PAGE = 10;
 
   /* ── State ── */
   let currentCategory = "Semua";
