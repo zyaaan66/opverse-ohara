@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Artikel One Piece — Opverse Ohara">
+  <meta name="theme-color" content="#0d1b2a">
+  <title>Memuat Artikel... — Opverse Ohara</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='12' fill='%230d1b2a'/><text y='.9em' font-size='80' x='10'>☠</text></svg>">
+</head>
+<body>
+
+<!-- Scroll Progress -->
+<div id="scroll-progress" aria-hidden="true"></div>
+
+<!-- Skip Nav -->
+<a class="skip-link" href="#article-main">Lewati ke artikel</a>
+
+<!-- ======================================================
+     HEADER (sama dengan index)
+     ====================================================== -->
+<header id="header" role="banner">
+  <div id="masthead">
+    <div id="site-title">
+      <a href="index.html">
+        <span class="logo-mark" aria-hidden="true">☠</span>
+        <span>
+          Opverse Ohara
+          <small id="site-tagline">Portal One Piece · Membaca Sejarah Tersembunyi</small>
+        </span>
+      </a>
+    </div>
+
+    <nav id="primary-nav" role="navigation" aria-label="Navigasi utama">
+      <a href="index.html">Beranda</a>
+      <a href="index.html#content">Teori</a>
+      <a href="index.html#content">Devil Fruit</a>
+      <a href="index.html#content">Power Level</a>
+      <a href="index.html#content">Dunia</a>
+    </nav>
+
+    <div id="header-search">
+      <input
+        type="search"
+        id="search-input-article"
+        placeholder="Cari artikel..."
+        aria-label="Cari artikel"
+        autocomplete="off"
+      >
+    </div>
+
+    <button id="nav-toggle" aria-label="Buka menu" aria-expanded="false">
+      <svg width="20" height="14" viewBox="0 0 20 14" fill="none" aria-hidden="true">
+        <rect width="20" height="2" rx="1" fill="currentColor"/>
+        <rect y="6" width="20" height="2" rx="1" fill="currentColor"/>
+        <rect y="12" width="20" height="2" rx="1" fill="currentColor"/>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<!-- ======================================================
+     MAIN ARTIKEL (diisi JS)
+     ====================================================== -->
+<main id="article-main" role="main">
+  <!-- Konten dirender oleh article.js -->
+  <div class="article-hero" style="min-height:200px;display:grid;place-items:center;">
+    <div style="text-align:center">
+      <div class="skeleton" style="width:200px;height:20px;margin:0 auto 12px"></div>
+      <div class="skeleton" style="width:500px;max-width:90vw;height:36px;margin:0 auto 10px"></div>
+      <div class="skeleton" style="width:300px;height:16px;margin:0 auto"></div>
+    </div>
+  </div>
+</main>
+
+<!-- ======================================================
+     FOOTER
+     ====================================================== -->
+<footer id="footer" role="contentinfo">
+  <div class="footer-inner">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-logo">☠ Opverse Ohara</div>
+        <p>
+          Portal analisis One Piece terdalam di Indonesia. Kami membaca Poneglyph
+          yang tidak boleh dibaca, membahas teori yang tidak boleh dibahas.
+        </p>
+      </div>
+      <div class="footer-col">
+        <h4>Navigasi</h4>
+        <ul>
+          <li><a href="index.html">Beranda</a></li>
+          <li><a href="index.html">Semua Artikel</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Info</h4>
+        <ul>
+          <li><a href="#">Tentang Kami</a></li>
+          <li><a href="#">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 Opverse Ohara. Dibuat dengan 💛 untuk para nakama.</p>
+      <p>One Piece © Eiichiro Oda / Shueisha. Fan-made, non-profit.</p>
+    </div>
+  </div>
+</footer>
+
+<!-- Back to top -->
+<a id="back-to-top" href="#" aria-label="Kembali ke atas">↑</a>
+
+<!-- Scripts -->
+<script src="js/articles.js"></script>
+<script src="js/article.js"></script>
+<script>
+  /* Search dari header article.html → redirect ke index dengan query */
+  document.addEventListener('DOMContentLoaded', function() {
+    var inp = document.getElementById('search-input-article');
+    if (inp) {
+      inp.addEventListener('keydown', function(e) {
+        if (e.key === 'Enter' && inp.value.trim()) {
+          window.location.href = 'index.html?q=' + encodeURIComponent(inp.value.trim());
+        }
+      });
+    }
+  });
+</script>
+
+</body>
+</html>

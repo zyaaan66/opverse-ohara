@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Opverse Ohara — Portal artikel analisis, teori, dan lore One Piece terdalam. Membaca sejarah yang tersembunyi.">
+  <meta name="theme-color" content="#0d1b2a">
+  <meta property="og:title" content="Opverse Ohara — Portal One Piece">
+  <meta property="og:description" content="Analisis, teori, dan lore One Piece terdalam. Seperti para scholar Ohara yang tak pernah berhenti membaca.">
+  <meta property="og:type" content="website">
+  <title>Opverse Ohara — Portal One Piece</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='12' fill='%230d1b2a'/><text y='.9em' font-size='80' x='10'>☠</text></svg>">
+</head>
+<body>
+
+<!-- Scroll Progress -->
+<div id="scroll-progress" aria-hidden="true"></div>
+
+<!-- Skip Nav -->
+<a class="skip-link" href="#content">Lewati ke konten</a>
+
+<!-- ======================================================
+     HEADER
+     ====================================================== -->
+<header id="header" role="banner">
+  <div id="masthead">
+    <div id="site-title">
+      <a href="index.html">
+        <span class="logo-mark" aria-hidden="true">☠</span>
+        <span>
+          Opverse Ohara
+          <small id="site-tagline">Portal One Piece · Membaca Sejarah Tersembunyi</small>
+        </span>
+      </a>
+    </div>
+
+    <nav id="primary-nav" role="navigation" aria-label="Navigasi utama">
+      <a href="index.html" class="active">Beranda</a>
+      <a href="#" onclick="filterByCategory('Teori & Lore')">Teori</a>
+      <a href="#" onclick="filterByCategory('Devil Fruit')">Devil Fruit</a>
+      <a href="#" onclick="filterByCategory('Power Level')">Power Level</a>
+      <a href="#" onclick="filterByCategory('World Building')">Dunia</a>
+    </nav>
+
+    <div id="header-search">
+      <input
+        type="search"
+        id="search-input"
+        placeholder="Cari artikel..."
+        aria-label="Cari artikel"
+        autocomplete="off"
+      >
+    </div>
+
+    <button id="nav-toggle" aria-label="Buka menu" aria-expanded="false">
+      <svg width="20" height="14" viewBox="0 0 20 14" fill="none" aria-hidden="true">
+        <rect width="20" height="2" rx="1" fill="currentColor"/>
+        <rect y="6" width="20" height="2" rx="1" fill="currentColor"/>
+        <rect y="12" width="20" height="2" rx="1" fill="currentColor"/>
+      </svg>
+    </button>
+  </div>
+</header>
+
+<!-- ======================================================
+     HERO
+     ====================================================== -->
+<section id="hero" aria-label="Selamat datang">
+  <div id="hero-content">
+    <h1>Dari Ohara untuk Dunia</h1>
+    <p>
+      Seperti para scholar yang tak pernah berhenti membaca Poneglyph —<br>
+      kami menulis tentang sejarah dunia yang tersembunyi.
+    </p>
+    <div id="hero-meta">
+      <span>📜 <span id="hero-article-count">0</span> Artikel</span>
+      <span>🌊 Grand Line · New World</span>
+      <span>☠ One Piece Universe</span>
+    </div>
+  </div>
+</section>
+
+<!-- ======================================================
+     MAIN WRAPPER (2 kolom)
+     ====================================================== -->
+<div id="wrapper">
+
+  <!-- ── KONTEN UTAMA ── -->
+  <main id="content" role="main">
+
+    <!-- Filter Kategori -->
+    <div id="category-filter" role="group" aria-label="Filter kategori">
+      <!-- Diisi oleh JS -->
+    </div>
+
+    <!-- Status pencarian -->
+    <div id="search-status" role="status" aria-live="polite" style="display:none;"></div>
+
+    <!-- Divider Poneglyph -->
+    <div class="poneglyph-divider" aria-hidden="true">
+      <span>— Arsip Ohara —</span>
+    </div>
+
+    <!-- Daftar Artikel -->
+    <div id="post-list" aria-label="Daftar artikel">
+      <!-- Diisi oleh JS -->
+    </div>
+
+    <!-- Pagination -->
+    <nav id="pagination" aria-label="Navigasi halaman"></nav>
+
+  </main>
+
+  <!-- ── SIDEBAR ── -->
+  <aside id="sidebar" role="complementary" aria-label="Sidebar">
+
+    <div class="widget">
+      <h3 class="widget-title">Tentang Ohara</h3>
+      <div class="widget-body widget-about">
+        <div class="ohara-icon">📚</div>
+        <p>
+          Opverse Ohara adalah portal artikel One Piece yang membahas teori, lore, power level,
+          dan world building secara mendalam. Seperti para scholar Ohara yang rela mati demi ilmu pengetahuan.
+        </p>
+      </div>
+    </div>
+
+    <div class="widget">
+      <h3 class="widget-title">Artikel Terbaru</h3>
+      <div class="widget-body">
+        <div id="sidebar-recent" class="widget-post-list">
+          <!-- Diisi oleh JS -->
+        </div>
+      </div>
+    </div>
+
+    <div class="widget">
+      <h3 class="widget-title">Kategori</h3>
+      <div class="widget-body">
+        <div id="sidebar-categories" class="widget-cat-list">
+          <!-- Diisi oleh JS -->
+        </div>
+      </div>
+    </div>
+
+    <div class="widget">
+      <h3 class="widget-title">Quote Ohara</h3>
+      <div class="widget-body">
+        <blockquote style="font-style:italic;font-size:14px;color:var(--sepia);border-left:3px solid var(--gold);padding-left:12px;line-height:1.65">
+          "Kami tidak dihancurkan karena berbahaya. Kami dihancurkan karena benar."
+        </blockquote>
+        <p style="font-size:11px;font-family:var(--font-mono);color:var(--text-muted);margin-top:10px;text-transform:uppercase;letter-spacing:.08em">— Nico Olvia, Ohara</p>
+      </div>
+    </div>
+
+  </aside>
+
+</div><!-- #wrapper -->
+
+<!-- ======================================================
+     FOOTER
+     ====================================================== -->
+<footer id="footer" role="contentinfo">
+  <div class="footer-inner">
+    <div class="footer-grid">
+      <div class="footer-brand">
+        <div class="footer-logo">☠ Opverse Ohara</div>
+        <p>
+          Portal analisis One Piece terdalam di Indonesia. Kami membaca Poneglyph
+          yang tidak boleh dibaca, membahas teori yang tidak boleh dibahas.
+          Semua demi mengetahui kebenaran sejarah.
+        </p>
+      </div>
+      <div class="footer-col">
+        <h4>Kategori</h4>
+        <ul>
+          <li><a href="#" onclick="filterByCategory('Teori & Lore')">Teori & Lore</a></li>
+          <li><a href="#" onclick="filterByCategory('Devil Fruit')">Devil Fruit</a></li>
+          <li><a href="#" onclick="filterByCategory('Power Level')">Power Level</a></li>
+          <li><a href="#" onclick="filterByCategory('World Building')">World Building</a></li>
+          <li><a href="#" onclick="filterByCategory('Review Arc')">Review Arc</a></li>
+        </ul>
+      </div>
+      <div class="footer-col">
+        <h4>Informasi</h4>
+        <ul>
+          <li><a href="#">Tentang Kami</a></li>
+          <li><a href="#">Kontribusi Artikel</a></li>
+          <li><a href="#">Disclaimer</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <p>© 2025 Opverse Ohara. Dibuat dengan 💛 untuk para nakama.</p>
+      <p>One Piece © Eiichiro Oda / Shueisha. Fan-made, non-profit.</p>
+    </div>
+  </div>
+</footer>
+
+<!-- Back to top -->
+<a id="back-to-top" href="#" aria-label="Kembali ke atas" title="Kembali ke atas">↑</a>
+
+<!-- Scripts -->
+<script src="js/articles.js"></script>
+<script src="js/main.js"></script>
+<script>
+  /* Helper untuk filter dari nav/footer tanpa reload halaman */
+  function filterByCategory(cat) {
+    event.preventDefault();
+    // trigger click pada filter-btn yang sesuai
+    const btn = document.querySelector(`.filter-btn[data-cat="${cat}"]`);
+    if (btn) { btn.click(); window.scrollTo({ top: 0, behavior: 'smooth' }); }
+  }
+</script>
+
+</body>
+</html>
