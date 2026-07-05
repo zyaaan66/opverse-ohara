@@ -15,6 +15,185 @@
 
 const ARTICLES = [
   {
+    id: "sejarah-gorosei-imu",
+    title: "Lima Tetua & Imu: Siapa Sebenarnya Penguasa Dunia One Piece?",
+    date: "2025-07-10",
+    category: "Teori & Lore",
+    author: "Tim Ohara",
+    image: "",
+    tags: ["Gorosei", "Imu", "World Government", "Celestial Dragons", "Teori"],
+    excerpt:
+      "Selama puluhan tahun, dunia mengira Gorosei adalah kekuatan tertinggi World Government. Ternyata mereka hanya pelayan dari sosok bernama Imu — penguasa bayangan yang duduk di Singgasana Kosong. Siapa dia sebenarnya?",
+    content: `
+      <p>Selama bertahun-tahun, Lima Tetua atau Gorosei dipercaya sebagai otoritas tertinggi World Government. Namun arc Reverie mengungkap kejutan besar: di atas mereka ada satu sosok misterius bernama Imu, penguasa sesungguhnya yang duduk di Singgasana Kosong dan disebut sebagai "Raja Dunia" yang sesungguhnya.</p>
+
+      <h2>Siapa Itu Gorosei?</h2>
+      <p>Gorosei adalah lima Celestial Dragon berpangkat tertinggi yang secara resmi disebut sebagai "Otoritas Tertinggi World Government". Masing-masing memegang gelar "Warrior God" untuk bidang tertentu — mulai dari sains, pertahanan, hingga urusan luar negeri. Selama ini publik mengira merekalah yang benar-benar berkuasa atas dunia.</p>
+      <p>Namun kenyataannya, para Tetua ini sepenuhnya tunduk pada Imu tanpa pernah membantah, bahkan bersedia memusnahkan seluruh kerajaan atau menyingkirkan siapa pun yang mengetahui identitas Imu, demi menjaga rahasia itu tetap tersegel.</p>
+
+      <h2>Wujud Asli: Bentuk Yokai Para Tetua</h2>
+      <p>Salah satu pengungkapan paling mengejutkan datang saat Gorosei turun langsung ke Egghead Island untuk menghentikan pesan Dr. Vegapunk. Di sanalah untuk pertama kalinya mereka menunjukkan wujud asli mereka — bentuk menyerupai yokai dalam mitologi Jepang. Salah satunya, Jaygarcia Saturn, berubah menjadi makhluk hibrida banteng-laba-laba raksasa yang terinspirasi dari Gyuki dalam mitologi Jepang.</p>
+
+      <h2>Pergantian Kursi: Saturn Digantikan Figarland Garling</h2>
+      <p>Tak lama setelah Insiden Egghead, Imu memutuskan untuk menghukum Saturn karena dianggap gagal mencegah kaburnya Luffy dan kru Straw Hat. Tanpa ampun, tubuh Saturn perlahan menyusut menjadi kerangka di hadapan para Tetua lainnya. Sebagai gantinya, Imu menunjuk Figarland Garling — mantan Panglima Tertinggi Knights of God — untuk mengisi kursi kosong tersebut dengan gelar baru: Warrior God of Science and Defense.</p>
+      <p>Momen ini penting karena menunjukkan bahwa posisi Gorosei bukanlah jabatan abadi. Siapa pun bisa digantikan kapan saja sesuai kehendak Imu, bahkan anggota paling senior sekalipun.</p>
+
+      <h2>Imu: Sosok yang Lebih Tua dari World Government Itu Sendiri</h2>
+      <p>Yang membuat Imu semakin menakutkan adalah fakta bahwa dialah dalang di balik peristiwa besar 38 tahun lalu di God Valley — bukan sekadar pengamat, melainkan pihak yang secara langsung mengintervensi konflik antara Rocks Pirates, Roger, dan Garp dengan merasuki tubuh Saturn muda. Ini artinya Imu sudah memegang kendali penuh atas dunia jauh sebelum generasi bajak laut sekarang lahir, dan kemungkinan besar sudah ada sejak Void Century berlangsung.</p>
+
+      <h2>Teori-Teori Fans Soal Identitas Imu</h2>
+      <p>Karena Oda sengaja menyembunyikan wajah dan gender Imu selama bertahun-tahun, komunitas fans di Reddit dan forum-forum lain punya banyak spekulasi liar:</p>
+
+      <h3>1. Imu adalah Raja Terakhir dari Great Kingdom</h3>
+      <p>Salah satu teori paling populer menyebutkan Imu bukanlah musuh dari Kerajaan Kuno, melainkan justru rajanya sendiri — sosok yang selamat dari kehancuran Void Century dan kemudian membangun World Government sebagai topeng untuk terus memerintah dunia secara diam-diam selama ratusan tahun.</p>
+
+      <h3>2. Imu Bukan Manusia Biasa, Melainkan Sesuatu yang "Diwariskan"</h3>
+      <p>Karena nama "Imu" sudah muncul di Poneglyph kuno sejak ratusan tahun lalu namun sosok yang duduk di singgasana tampak masih "hidup" sampai sekarang, sebagian fans berteori bahwa "Imu" bukan nama satu individu, melainkan gelar atau identitas yang diwariskan turun-temurun ke penerus berikutnya — mirip seperti gelar Tenno di Jepang.</p>
+
+      <h2>Kesimpulan Sementara</h2>
+      <p>Dengan terungkapnya keterlibatan Imu di God Valley, jelas bahwa sosok ini adalah dalang sesungguhnya di balik hampir semua tragedi besar dalam sejarah One Piece — dari Void Century hingga Ohara. Pertanyaannya sekarang bukan lagi "siapa Imu", tapi "apa yang sebenarnya diinginkan Imu" di akhir cerita nanti.</p>
+    `,
+  },
+  {
+    id: "insiden-god-valley",
+    title: "God Valley: Insiden Berdarah yang Dihapus dari Peta Dunia",
+    date: "2025-07-08",
+    category: "Teori & Lore",
+    author: "Tim Ohara",
+    image: "",
+    tags: ["God Valley", "Rocks Pirates", "Roger", "Garp", "Imu"],
+    excerpt:
+      "38 tahun lalu, sebuah pulau bernama God Valley menjadi lokasi pertempuran terbesar dalam sejarah modern One Piece — lalu dihapus total dari peta dunia. Kita bedah siapa saja yang terlibat dan mengapa insiden ini disembunyikan.",
+    content: `
+      <p>God Valley adalah nama sebuah pulau di West Blue yang 38 tahun lalu menjadi lokasi salah satu pertempuran terbesar dalam sejarah One Piece modern. Saking pentingnya insiden ini, World Government sampai menghapus pulau tersebut sepenuhnya dari peta dunia, seolah-olah tempat itu tidak pernah ada.</p>
+
+      <h2>Awal Mula: Kompetisi Berburu yang Berubah Kacau</h2>
+      <p>Awalnya, God Valley menjadi lokasi "Kompetisi Berburu Penduduk Asli" — sebuah tradisi kejam World Nobles di mana mereka memburu penduduk lokal dan budak untuk hiburan. Namun rencana ini bocor, dan menarik perhatian Rocks Pirates, kru bajak laut paling ditakuti pada masanya, yang datang untuk menyelamatkan orang-orang terkasih mereka sekaligus menyerang balik para Celestial Dragons.</p>
+
+      <h2>Siapa Saja yang Terlibat?</h2>
+      <p>Insiden ini mempertemukan hampir semua kekuatan besar dunia dalam satu tempat: Rocks Pirates yang dipimpin Rocks D. Xebec (dengan anggota yang kelak menjadi Whitebeard, Big Mom, dan Kaido), Roger Pirates, pasukan Marinir di bawah Monkey D. Garp, serta para Knights of God termasuk Figarland Garling. Bahkan Blackbeard dan bayi Shanks tercatat berada di pulau itu saat kejadian berlangsung.</p>
+
+      <h2>Pertempuran yang Melibatkan Imu</h2>
+      <p>Fakta paling mengejutkan yang belakangan terungkap adalah keterlibatan langsung Imu, yang merasuki tubuh Saturn muda untuk turun tangan menghentikan Rocks. Roger, Garp, Whitebeard, Big Mom, dan Kaido bahkan sempat menyatukan kekuatan mereka dalam satu serangan gabungan untuk melawan Imu, sebelum akhirnya Imu berhasil mengubah Rocks menjadi semacam monster dan memaksanya membunuh keluarganya sendiri.</p>
+      <p>Pada akhirnya, dibutuhkan kerja sama Roger dan Garp untuk benar-benar mengakhiri Rocks — sebuah aliansi yang sangat tidak biasa mengingat status mereka sebagai musuh bebuyutan, bajak laut nomor satu melawan pahlawan Marinir.</p>
+
+      <h2>Dampak Jangka Panjang</h2>
+      <p>Insiden ini melahirkan banyak sekali konsekuensi besar: bubarnya Rocks Pirates, lahirnya tiga calon Yonko (Whitebeard, Big Mom, Kaido) yang membentuk kru sendiri, gelar "Pahlawan Marinir" untuk Garp, ditemukannya bayi Shanks oleh Roger Pirates dalam sebuah peti harta karun, serta lolosnya Bartholomew Kuma bersama ratusan budak lain berkat Buah Nikyu Nikyu yang baru saja ia makan di tengah kekacauan.</p>
+
+      <h2>Teori Fans: Whitebeard Diam-Diam Mengkhianati Rocks?</h2>
+      <p>Salah satu teori paling ramai dibicarakan di Reddit menyebutkan bahwa Whitebeard sebenarnya sudah lama membangun kelompoknya sendiri secara diam-diam di dalam Rocks Pirates, sampai akhirnya Xebec mengetahuinya dan membunuh hampir seluruh anggotanya, hanya menyisakan Marco kecil yang selamat. Dalam teori ini, Whitebeard baru mengetahui kebenaran di balik pembantaian itu justru saat insiden God Valley berlangsung — dan kemarahannya karena merasa dikhianati inilah yang mendorongnya berbalik melawan kaptennya sendiri bersama Roger dan Garp.</p>
+
+      <h2>Teori Fans: Bekas Luka Whitebeard dari Figarland Garling</h2>
+      <p>Teori populer lain menghubungkan bekas luka misterius di wajah Whitebeard dengan pertarungannya melawan Figarland Garling, ayah kandung Shanks. Saat bertemu Shanks bertahun-tahun kemudian, Whitebeard sempat berkomentar bahwa wajah Shanks mengingatkannya pada seseorang yang membuat bekas lukanya "terasa sakit" — sebuah baris yang banyak diyakini fans merujuk pada Garling, bukan Roger seperti dugaan awal.</p>
+
+      <h2>Kesimpulan</h2>
+      <p>God Valley bukan sekadar insiden masa lalu biasa — ia adalah titik pertemuan nasib hampir seluruh karakter kunci dalam cerita One Piece, dari generasi Roger hingga generasi Luffy. Semakin banyak detail insiden ini terungkap, semakin jelas bahwa perang terakhir dalam Final Saga kemungkinan besar akan menjadi pengulangan dari apa yang terjadi di pulau yang sudah dihapus dari peta ini.</p>
+    `,
+  },
+  {
+    id: "misteri-shanks-figarland",
+    title: "Rahasia Keluarga Figarland: Teori Kembar Shanks yang (Hampir) Terbukti",
+    date: "2025-07-02",
+    category: "Karakter",
+    author: "Tim Ohara",
+    image: "",
+    tags: ["Shanks", "Figarland", "Celestial Dragons", "Teori", "Elbaf"],
+    excerpt:
+      "Shanks bukan sekadar bajak laut kharismatik dengan luka di mata — dia lahir sebagai anggota keluarga Celestial Dragon. Kita bedah pengungkapan keluarga Figarland dan teori kembar Shanks yang sempat jadi rumor liar bertahun-tahun.",
+    content: `
+      <p>Selama bertahun-tahun, latar belakang Shanks sebelum bergabung dengan Roger Pirates adalah misteri total. Namun beberapa chapter terakhir mengungkap kejutan besar: Shanks lahir dari keluarga World Noble bernama Figarland, dan bahkan punya seorang kakak kembar yang masih hidup sampai sekarang.</p>
+
+      <h2>Asal-usul Shanks: Lahir sebagai Celestial Dragon</h2>
+      <p>Terungkap bahwa Shanks lahir di God Valley dari ayah bernama Figarland Garling — anggota Knights of God yang 38 tahun lalu ikut serta dalam Kompetisi Berburu di pulau tersebut — dan ibu bernama Magnolia. Shanks lahir sebagai anak kembar, dengan kakaknya bernama Shamrock lahir lebih dulu.</p>
+      <p>Saat kekacauan insiden God Valley pecah, bayi Shanks terpisah dari keluarganya dan bersembunyi di dalam sebuah peti harta karun kosong, di mana ia kemudian ditemukan oleh kru Roger Pirates dan dibesarkan sebagai bagian dari kru mereka — bukan sebagai Celestial Dragon, melainkan sebagai calon bajak laut.</p>
+
+      <h2>Shamrock: Kakak Kembar yang Memilih Jalan Berbeda</h2>
+      <p>Berbeda dengan Shanks yang tumbuh di lautan bebas, Shamrock tetap tinggal di Mary Geoise dan kini menjabat sebagai komandan Knights of God — pasukan elit yang menjaga Celestial Dragons. Ini menjadikan dua saudara kembar ini berada di sisi yang benar-benar berlawanan: satu sebagai bajak laut Yonko, satu lagi sebagai penjaga setia World Government.</p>
+
+      <h2>Teori Lama Fans: "Teori Kembar Shanks" Sebelum Resmi Diungkap</h2>
+      <p>Menariknya, jauh sebelum Oda mengungkap fakta ini secara resmi, komunitas fans di Reddit sudah lama berspekulasi tentang keberadaan sosok misterius yang mirip Shanks berdasarkan panel-panel samar di masa lalu — yang kemudian dikenal luas sebagai "teori kembar Shanks". Banyak yang menganggap kemunculan resmi Shamrock sebagai konfirmasi tidak langsung dari teori yang selama ini dianggap terlalu liar untuk jadi kenyataan.</p>
+
+      <h2>Kaitan dengan Mitologi: Fenrir dan Anak Kembarnya</h2>
+      <p>Sebagian fans juga mengaitkan hubungan Garling dengan mitologi Nordik, di mana serigala raksasa Fenrir memiliki dua anak bernama Sköll dan Hati yang masing-masing mengejar matahari dan bulan. Dalam interpretasi ini, Shanks — yang seumur hidupnya mengejar kekuatan "matahari" lewat Buah Nika — dan Shamrock yang berada di sisi "bulan" bersama ayahnya, dianggap sebagai representasi simbolis dari mitos tersebut, dan diperkirakan akan bertemu secara dramatis di titik akhir cerita, kemungkinan besar di Elbaf.</p>
+
+      <h2>Mengapa Ini Penting untuk Cerita Utama?</h2>
+      <p>Pengungkapan keluarga Figarland tidak hanya memperdalam karakter Shanks, tapi juga menjelaskan mengapa ia begitu memahami cara kerja dunia Celestial Dragons dan World Government — sesuatu yang selama ini tampak aneh untuk seorang bajak laut biasa. Latar belakangnya sebagai keturunan Celestial Dragon yang memilih meninggalkan segalanya demi kebebasan laut juga menjadikannya paralel menarik dengan tokoh-tokoh lain seperti Fisher Tiger atau bahkan Dragon.</p>
+
+      <h2>Kesimpulan Sementara</h2>
+      <p>Dengan Garling kini menjadi salah satu Gorosei dan Shamrock menjabat sebagai komandan pasukan elit, konflik keluarga Figarland kemungkinan besar akan menjadi salah satu subplot penting di Final Saga — terutama jika benar Shanks pada akhirnya harus berhadapan langsung dengan ayah dan kakaknya sendiri.</p>
+    `,
+  },
+  {
+    id: "struktur-kekuasaan-dunia",
+    title: "Reverie dan Struktur Kekuasaan Tersembunyi Dunia One Piece",
+    date: "2025-06-25",
+    category: "World Building",
+    author: "Tim Ohara",
+    image: "",
+    tags: ["Reverie", "Celestial Dragons", "World Government", "Levely", "Dunia"],
+    excerpt:
+      "Siapa yang sebenarnya berkuasa di dunia One Piece? Dari raja-raja kecil, Shichibukai yang sudah dibubarkan, hingga Celestial Dragons di puncak piramida — kita petakan seluruh struktur kekuasaan dunia secara lengkap.",
+    content: `
+      <p>Dunia One Piece punya struktur kekuasaan yang jauh lebih rumit dari sekadar "bajak laut melawan Marinir". Di baliknya ada sistem politik berlapis yang melibatkan raja-raja kerajaan, Celestial Dragons, hingga pertemuan rahasia bernama Reverie yang hanya digelar setiap empat tahun sekali.</p>
+
+      <h2>Lapisan Paling Bawah: Kerajaan-Kerajaan Merdeka</h2>
+      <p>Di bawah naungan World Government, ada ratusan kerajaan kecil yang secara teknis merdeka dan punya raja/ratu masing-masing — seperti Alabasta yang dipimpin keluarga Nefertari, atau Ryugu Kingdom yang dipimpin keluarga Neptune. Meski merdeka, kerajaan-kerajaan ini tetap tunduk pada aturan World Government dan wajib mengirimkan perwakilan ke pertemuan besar bernama Reverie atau Levely.</p>
+
+      <h2>Reverie: Pertemuan Raja Sedunia</h2>
+      <p>Reverie adalah pertemuan besar yang digelar setiap empat tahun sekali di Mary Geoise, tempat para raja dan ratu dari seluruh dunia berkumpul untuk membahas kebijakan global — mulai dari perdagangan, isu Yonko, sampai keputusan-keputusan besar yang memengaruhi seluruh dunia. Justru di Reverie inilah untuk pertama kalinya publik (dan pembaca) mendapat petunjuk soal keberadaan Imu, lewat sebuah Singgasana Kosong yang tampak dihormati secara berlebihan oleh semua orang di ruangan itu.</p>
+
+      <h2>Shichibukai: Sistem yang Sudah Dibubarkan</h2>
+      <p>Sebelumnya, World Government juga mempekerjakan tujuh bajak laut kuat dengan status Shichibukai sebagai kekuatan tambahan untuk mengimbangi Yonko, dengan imbalan kebebasan bertindak asal tetap tunduk pada pemerintah. Sistem ini dibubarkan setelah terbukti gagal menahan serangan-serangan besar seperti penyerbuan Blackbeard maupun insiden-insiden lain yang melibatkan mantan anggotanya sendiri.</p>
+
+      <h2>Puncak Piramida: Celestial Dragons dan Gorosei</h2>
+      <p>Di puncak seluruh sistem ada Celestial Dragons — keturunan langsung 20 raja pendiri World Government yang tinggal di kota suci Mary Geoise, kebal hukum, dan diperlakukan seperti dewa oleh seluruh dunia. Dari kalangan inilah lahir Gorosei, lima Celestial Dragon berpangkat tertinggi yang secara resmi memimpin dunia — meski, seperti sudah dibahas di artikel lain, mereka sendiri ternyata masih tunduk pada satu sosok misterius bernama Imu.</p>
+
+      <h2>Teori Fans: Sistem Ini Sengaja Dirancang untuk Menyembunyikan Void Century</h2>
+      <p>Banyak fans di forum-forum diskusi berteori bahwa seluruh struktur berlapis ini — mulai dari kerajaan kecil, Reverie, sampai Celestial Dragons — sengaja dirancang berabad-abad lalu sebagai sistem checks-and-balances yang rumit, bukan untuk menjaga perdamaian, melainkan untuk memastikan tidak ada satu pihak pun yang punya cukup kekuasaan sendirian untuk menggali ulang kebenaran soal Void Century dan Great Kingdom.</p>
+
+      <h2>Kesimpulan</h2>
+      <p>Struktur kekuasaan dunia One Piece dibangun berlapis-lapis dengan sangat rapi: dari rakyat biasa, kerajaan kecil, sampai Celestial Dragons dan Imu di puncaknya. Semakin dalam Oda mengupas lapisan ini, semakin jelas bahwa "kedamaian dunia" yang selama ini digembar-gemborkan World Government sebenarnya dibangun di atas rahasia besar yang terus dijaga dengan kekuatan penuh oleh setiap lapisan kekuasaan tersebut.</p>
+    `,
+  },
+  {
+    id: "sejarah-klan-kozuki-wano",
+    title: "Klan Kozuki dan Sejarah Kelam Wano Sebelum Era Oden",
+    date: "2025-06-18",
+    category: "Teori & Lore",
+    author: "Tim Ohara",
+    image: "https://i.imgur.com/YRpXiPO.jpeg",
+    tags: ["Wano", "Kozuki", "Oden", "Poneglyph", "Teori"],
+    excerpt:
+      "Wano bukan sekadar negeri samurai yang terisolasi — ia menyimpan salah satu rahasia terbesar dalam sejarah dunia One Piece. Kita bedah asal-usul Klan Kozuki, alasan Wano menutup diri, dan teori-teori fans soal kaitannya dengan Void Century.",
+    content: `
+      <p>Wano Country dikenal sebagai negeri samurai yang menutup diri dari dunia luar selama ratusan tahun. Namun di balik isolasi itu, tersimpan salah satu rahasia sejarah paling penting dalam seluruh cerita One Piece — termasuk kaitannya langsung dengan Void Century dan Senjata Kuno.</p>
+
+      <h2>Klan Kozuki: Penjaga Rahasia Sejarah</h2>
+      <p>Klan Kozuki adalah keluarga penguasa sah Wano yang secara turun-temurun memiliki kemampuan unik: mereka adalah satu-satunya klan yang tahu cara membuat Poneglyph, batu sejarah yang tidak bisa dihancurkan. Karena itulah Wano menjadi lokasi lahirnya banyak Poneglyph penting, termasuk beberapa Road Poneglyph yang menunjukkan jalan menuju Laugh Tale.</p>
+
+      <h2>Alasan Wano Menutup Diri</h2>
+      <p>Isolasi Wano bukan tanpa alasan. Negeri ini sengaja menutup pelabuhannya dari dunia luar untuk melindungi dua hal penting: rahasia pembuatan Poneglyph milik Klan Kozuki, dan keberadaan Ancient Weapon Pluton yang menurut catatan sejarah pernah dibangun di galangan kapal Wano oleh pandai besi legendaris bernama Shimotsuki Kozaburo.</p>
+
+      <h2>Era Oden dan Janji dengan Roger</h2>
+      <p>Kozuki Oden adalah pewaris Klan Kozuki yang sempat berlayar bersama Roger Pirates dan menjadi satu-satunya orang yang membaca Poneglyph sejarah di Zunesha bersama Roger. Sekembalinya ke Wano, Oden berusaha membuka kembali negeri itu ke dunia luar, namun rencananya digagalkan oleh kudeta berdarah yang dipimpin Kurozumi Orochi bersama Kaido, yang berujung pada eksekusi Oden secara brutal di depan seluruh rakyat Wano.</p>
+
+      <h2>20 Tahun Kegelapan di Bawah Orochi dan Kaido</h2>
+      <p>Setelah kematian Oden, Wano jatuh ke tangan Orochi dan Kaido selama dua dekade penuh, di mana rakyat ditindas, sumber makanan dimonopoli, dan negeri itu diam-diam digunakan sebagai pusat produksi senjata serta pasukan Zoan buatan (SMILE) untuk memperkuat Beast Pirates. Barulah lewat Raid Onigashima yang dipimpin Luffy, Law, dan aliansi samurai Wano, kekuasaan tirani ini berhasil digulingkan dan Momonosuke dikembalikan sebagai penguasa sah Wano.</p>
+
+      <h2>Nubuat Toki: Ramalan yang Menyatukan Dua Zaman</h2>
+      <p>Salah satu elemen paling emosional dari arc Wano adalah nubuat Kozuki Toki, istri Oden, yang meramalkan bahwa 20 tahun setelah kematiannya, seorang penyelamat akan datang untuk membebaskan Wano — sebuah ramalan yang akhirnya terbukti benar lewat kedatangan Luffy dan kawan-kawan tepat pada waktu yang diramalkan.</p>
+
+      <h2>Teori Fans: Wano adalah "Pecahan" dari Great Kingdom</h2>
+      <p>Karena kemampuan uniknya membuat Poneglyph dan teknologinya yang jauh lebih maju dari negeri manapun pada masanya (termasuk robot Automata dan senjata canggih), banyak fans berteori bahwa Wano sebenarnya adalah salah satu pecahan langsung dari peradaban Great Kingdom yang berhasil selamat dari kehancuran Void Century, lalu sengaja mengisolasi diri untuk menyembunyikan teknologi dan pengetahuan mereka dari World Government.</p>
+
+      <h2>Teori Fans: Zunesha dan Wano Punya Ikatan Kuno</h2>
+      <p>Teori lain menyoroti hubungan khusus antara Wano dan Zunesha, gajah raksasa yang membawa Zou di punggungnya sambil terus berjalan mencari negeri yang harus ia mintai maaf. Beberapa fans percaya negeri yang dimaksud Zunesha bukan lain adalah Wano sendiri, mengingat kedekatan historis antara Klan Kozuki dan Poneglyph yang tertanam di punggung Zunesha.</p>
+
+      <h2>Kesimpulan</h2>
+      <p>Wano bukan sekadar latar arc yang megah secara visual — ia adalah salah satu kunci penting untuk memahami sejarah besar dunia One Piece, dari hubungan dengan Void Century, Senjata Kuno, hingga jaringan Poneglyph yang tersebar ke seluruh dunia. Warisan Oden dan Klan Kozuki kemungkinan besar akan terus relevan sampai babak akhir cerita.</p>
+    `,
+  },
+  {
     id: "sejarah-void-century",
     title: "Misteri Void Century: 100 Tahun yang Dihapus dari Sejarah",
     date: "2025-07-05",
@@ -73,7 +252,7 @@ const ARTICLES = [
     date: "2025-06-28",
     category: "Power Level",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/JmJyR9Y.jpeg",
     tags: ["Admiral", "Yonko", "Power Level", "Marines", "Haki"],
     excerpt:
       "Dengan munculnya admiral-admiral baru pasca Timeskip, pertanyaan klasik kembali: apakah level admiral setara Yonko? Kita analisis semua pertarungan, datapoint, dan perdebatan panas komunitas fans.",
@@ -105,14 +284,12 @@ const ARTICLES = [
     date: "2025-06-15",
     category: "Devil Fruit",
     author: "Tim Ohara",
-    image: "https://media.hitekno.com/thumbs/2022/03/23/53446-buah-iblis-one-piece-paramecia/350x230-img-53446-buah-iblis-one-piece-paramecia.jpg",
+    image: "https://i.imgur.com/mVn6e5n.jpeg",
     tags: ["Devil Fruit", "Logia", "Paramecia", "Zoan", "Mythical Zoan"],
     excerpt:
       "Dari Gura Gura no Mi yang bisa menghancurkan dunia hingga Ope Ope no Mi sang 'Buah Operasi Tertinggi' — inilah buah iblis yang paling ditakuti dan diperebutkan di seluruh Grand Line.",
     content: `
       <p>Dunia One Piece dipenuhi ratusan buah iblis dengan kemampuan unik. Tapi di antara semuanya, ada yang benar-benar beda levelnya — baik karena kelangkaannya, bahayanya, atau nilai jualnya di pasar gelap.</p>
-
-      <img src="https://media.hitekno.com/thumbs/2022/03/23/53446-buah-iblis-one-piece-paramecia/350x230-img-53446-buah-iblis-one-piece-paramecia.jpg" alt="Ilustrasi buah iblis One Piece" style="width:100%;border-radius:8px;margin:16px 0;" />
 
       <h2>1. Gura Gura no Mi — Buah Gempa</h2>
       <p>Dimiliki Whitebeard, kemudian direbut Blackbeard setelah membunuhnya di Marineford. Buah Paramecia tipe khusus ini mampu menciptakan gempa dan tsunami yang bisa menghancurkan seluruh pulau hanya dengan satu pukulan. Sengoku sendiri pernah menyebut Whitebeard sebagai sosok yang secara harfiah bisa menghancurkan dunia jika ia mau. Kini di tangan Blackbeard, buah ini digabungkan dengan Yami Yami no Mi — kombinasi yang menurut banyak fans adalah kesalahan besar Oda kalau sampai ia benar-benar tak terkalahkan.</p>
@@ -120,12 +297,8 @@ const ARTICLES = [
       <h2>2. Ope Ope no Mi — Buah Operasi</h2>
       <p>Dimiliki Trafalgar Law. Buah ini disebut sebagai "Buah Iblis Tertinggi" (Ultimate Devil Fruit) karena kemampuan penggunanya untuk memanipulasi apapun di dalam sebuah ruang bernama "Room" — mulai dari menukar organ, memindahkan benda, hingga bertukar posisi. Yang paling menakutkan: penggunanya bisa memberikan keabadian kepada orang lain lewat Operasi Ope Ope, tapi dengan harga nyawa mereka sendiri. Itulah sebabnya buah ini pernah diperebutkan mati-matian oleh Donquixote Doflamingo dan Kaido — mereka berdua menginginkannya untuk kekal selamanya.</p>
 
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkHUYNgFwCtJExe9u-TS0LfPFIpyvTrqCN2BsESMKniaZfqaZP9mcNaY&s=10" alt="Ope Ope no Mi One Piece" style="width:100%;border-radius:8px;margin:16px 0;" />
-
       <h2>3. Yami Yami no Mi — Buah Kegelapan</h2>
       <p>Buah Logia yang dimiliki Marshall D. Teach alias Blackbeard. Buah ini unik karena, tidak seperti Logia lain, penggunanya tidak mendapat kekebalan fisik terhadap serangan — bahkan tubuhnya bisa terluka seperti manusia biasa. Namun sebagai gantinya, Yami Yami no Mi mampu menyerap dan meniadakan kekuatan buah iblis siapa pun yang bersentuhan dengannya, menjadikannya salah satu buah paling mematikan sekaligus paling ditakuti di seluruh Grand Line.</p>
-
-      <img src="https://i.ytimg.com/vi/C2hFB17R1qs/maxresdefault.jpg" alt="Yami Yami no Mi Blackbeard One Piece" style="width:100%;border-radius:8px;margin:16px 0;" />
 
       <h2>4. Hito Hito no Mi: Model Nika — Buah Sang Dewa Matahari</h2>
       <p>Dimiliki Monkey D. Luffy, buah Mythical Zoan ini disebut sebagai buah iblis paling bebas di dunia. Bentuk Gear 5 mengubah tubuh Luffy menjadi karet sepenuhnya tanpa batas, memungkinkannya mengubah lingkungan sekitar seolah-olah semuanya terbuat dari karet juga. Buah ini disegel selama ratusan tahun oleh World Government karena diyakini sebagai reinkarnasi dari Joy Boy, sosok yang dulu melawan mereka di Void Century.</p>
@@ -143,7 +316,7 @@ const ARTICLES = [
     date: "2025-06-01",
     category: "Teori & Lore",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/fk6Ch6j.jpeg",
     tags: ["Straw Hat", "Nakama", "Teori", "Luffy", "Elbaf"],
     excerpt:
       "Oda sudah memberikan petunjuk siapa nakama selanjutnya? Kita analisis semua karakter yang paling kuat kandidatnya untuk bergabung dengan Straw Hat Pirates, plus rekap semua 'ajakan gagal' Luffy sepanjang cerita.",
@@ -172,7 +345,7 @@ const ARTICLES = [
     date: "2025-05-20",
     category: "World Building",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/AdfNda3.jpeg",
     tags: ["Grand Line", "New World", "Log Pose", "Dunia"],
     excerpt:
       "Grand Line dengan cuaca yang gila, pulau-pulau misterius, dan monster laut terkuat — bagaimana para navigator bisa melayarinya? Kita bedah sains dan lore di balik rute paling ikonik dalam anime.",
