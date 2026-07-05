@@ -20,7 +20,7 @@ const ARTICLES = [
     date: "2025-07-10",
     category: "Teori & Lore",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/vv0Wb6d.jpeg",
     tags: ["Gorosei", "Imu", "World Government", "Celestial Dragons", "Teori"],
     excerpt:
       "Selama puluhan tahun, dunia mengira Gorosei adalah kekuatan tertinggi World Government. Ternyata mereka hanya pelayan dari sosok bernama Imu — penguasa bayangan yang duduk di Singgasana Kosong. Siapa dia sebenarnya?",
@@ -60,7 +60,7 @@ const ARTICLES = [
     date: "2025-07-08",
     category: "Teori & Lore",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/Xa7iw74.jpeg",
     tags: ["God Valley", "Rocks Pirates", "Roger", "Garp", "Imu"],
     excerpt:
       "38 tahun lalu, sebuah pulau bernama God Valley menjadi lokasi pertempuran terbesar dalam sejarah modern One Piece — lalu dihapus total dari peta dunia. Kita bedah siapa saja yang terlibat dan mengapa insiden ini disembunyikan.",
@@ -96,7 +96,7 @@ const ARTICLES = [
     date: "2025-07-02",
     category: "Karakter",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/qoQFvGG.jpeg",
     tags: ["Shanks", "Figarland", "Celestial Dragons", "Teori", "Elbaf"],
     excerpt:
       "Shanks bukan sekadar bajak laut kharismatik dengan luka di mata — dia lahir sebagai anggota keluarga Celestial Dragon. Kita bedah pengungkapan keluarga Figarland dan teori kembar Shanks yang sempat jadi rumor liar bertahun-tahun.",
@@ -129,7 +129,7 @@ const ARTICLES = [
     date: "2025-06-25",
     category: "World Building",
     author: "Tim Ohara",
-    image: "",
+    image: "https://i.imgur.com/gxTB1rm.jpeg",
     tags: ["Reverie", "Celestial Dragons", "World Government", "Levely", "Dunia"],
     excerpt:
       "Siapa yang sebenarnya berkuasa di dunia One Piece? Dari raja-raja kecil, Shichibukai yang sudah dibubarkan, hingga Celestial Dragons di puncak piramida — kita petakan seluruh struktur kekuasaan dunia secara lengkap.",
