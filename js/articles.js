@@ -14,59 +14,59 @@
  */
 
 const ARTICLES = [
-{
-  id: "sejarah-void-century",
-  title: "Misteri Void Century: 100 Tahun yang Dihapus dari Sejarah",
-  date: "2025-07-05",
-  category: "Teori & Lore",
-  author: "Tim Ohara",
-  image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ492Db_60WW4jmmA2fxE5ylolAx8EzMVTB5_qGYPyzo1FftgJjEp-Lxxcb&s=10",
-  tags: ["Void Century", "Poneglyph", "World Government", "Sejarah", "Joy Boy"],
-  excerpt:
-    "Seratus tahun yang dihapus dari sejarah dunia — siapa yang memutuskan untuk menghapusnya, dan apa yang benar-benar terjadi? Kita bedah semua petunjuk yang tersebar dari Ohara hingga Joy Boy, plus teori-teori liar dari komunitas fans.",
-  content: `
-    <p>Void Century adalah salah satu misteri terbesar dalam dunia One Piece. Selama kurang lebih 100 tahun yang terjadi 700-800 tahun sebelum alur cerita utama, ada sesuatu yang begitu besar terjadi sehingga World Government memutuskan untuk menghapus seluruh jejaknya dari catatan sejarah resmi.</p>
+  {
+    id: "sejarah-void-century",
+    title: "Misteri Void Century: 100 Tahun yang Dihapus dari Sejarah",
+    date: "2025-07-05",
+    category: "Teori & Lore",
+    author: "Tim Ohara",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ492Db_60WW4jmmA2fxE5ylolAx8EzMVTB5_qGYPyzo1FftgJjEp-Lxxcb&s=10",
+    tags: ["Void Century", "Poneglyph", "World Government", "Sejarah", "Joy Boy"],
+    excerpt:
+      "Seratus tahun yang dihapus dari sejarah dunia — siapa yang memutuskan untuk menghapusnya, dan apa yang benar-benar terjadi? Kita bedah semua petunjuk yang tersebar dari Ohara hingga Joy Boy, plus teori-teori liar dari komunitas fans.",
+    content: `
+      <p>Void Century adalah salah satu misteri terbesar dalam dunia One Piece. Selama kurang lebih 100 tahun yang terjadi 700-800 tahun sebelum alur cerita utama, ada sesuatu yang begitu besar terjadi sehingga World Government memutuskan untuk menghapus seluruh jejaknya dari catatan sejarah resmi.</p>
 
-    <h2>Apa yang Sebenarnya Terjadi?</h2>
-    <p>Berdasarkan potongan informasi yang berhasil dikumpulkan sepanjang cerita, sebelum World Government berdiri, dunia dikuasai oleh sebuah kerajaan besar yang kini hanya dikenal sebagai "Great Kingdom" atau Kerajaan Kuno. Kerajaan ini kemudian diserang oleh aliansi dua puluh kerajaan lain yang belakangan menyebut diri mereka "Celestial Dragons" dan membentuk World Government yang berkuasa sampai sekarang.</p>
-    <p>Perang besar ini disebut-sebut menjadi penyebab runtuhnya Shandora, kota emas yang dulu berdiri di Pulau Jaya sebelum terangkat ke Langit oleh Knock-Up Stream. Menurut catatan yang ada, penduduk Shandia terus menjaga reruntuhan kota tersebut selama lebih dari 800 tahun setelah keruntuhannya.</p>
+      <h2>Apa yang Sebenarnya Terjadi?</h2>
+      <p>Berdasarkan potongan informasi yang berhasil dikumpulkan sepanjang cerita, sebelum World Government berdiri, dunia dikuasai oleh sebuah kerajaan besar yang kini hanya dikenal sebagai "Great Kingdom" atau Kerajaan Kuno. Kerajaan ini kemudian diserang oleh aliansi dua puluh kerajaan lain yang belakangan menyebut diri mereka "Celestial Dragons" dan membentuk World Government yang berkuasa sampai sekarang.</p>
+      <p>Perang besar ini disebut-sebut menjadi penyebab runtuhnya Shandora, kota emas yang dulu berdiri di Pulau Jaya sebelum terangkat ke Langit oleh Knock-Up Stream. Menurut catatan yang ada, penduduk Shandia terus menjaga reruntuhan kota tersebut selama lebih dari 800 tahun setelah keruntuhannya.</p>
 
-    <h2>Senjata Kuno dan Naiknya Permukaan Laut</h2>
-    <p>Salah satu petunjuk paling penting datang dari analisis Dr. Vegapunk mengenai tiga Senjata Kuno: Pluton, Poseidon, dan Uranus. Ia menyimpulkan bahwa penggunaan senjata-senjata inilah yang menyebabkan permukaan air laut dunia naik hingga 200 meter, mengubah dunia yang tadinya berupa benua luas menjadi pulau-pulau kecil yang tersebar seperti sekarang.</p>
-    <p>Fakta ini membuat banyak fans meyakini bahwa Void Century sebenarnya adalah kisah tentang kehancuran dunia lama — dan bahwa dunia One Piece yang kita kenal sekarang adalah dunia pasca-kiamat.</p>
+      <h2>Senjata Kuno dan Naiknya Permukaan Laut</h2>
+      <p>Salah satu petunjuk paling penting datang dari analisis Dr. Vegapunk mengenai tiga Senjata Kuno: Pluton, Poseidon, dan Uranus. Ia menyimpulkan bahwa penggunaan senjata-senjata inilah yang menyebabkan permukaan air laut dunia naik hingga 200 meter, mengubah dunia yang tadinya berupa benua luas menjadi pulau-pulau kecil yang tersebar seperti sekarang.</p>
+      <p>Fakta ini membuat banyak fans meyakini bahwa Void Century sebenarnya adalah kisah tentang kehancuran dunia lama — dan bahwa dunia One Piece yang kita kenal sekarang adalah dunia pasca-kiamat.</p>
 
-    <h2>Poneglyph: Satu-satunya Saksi Bisu</h2>
-    <p>Karena semua catatan sejarah resmi telah dimusnahkan, satu-satunya bukti yang tersisa adalah Poneglyph — lempengan batu raksasa yang tidak bisa dihancurkan, diciptakan oleh Keluarga Kouzuki di Wano. World Government melarang keras siapa pun mempelajari atau menerjemahkan Poneglyph, bahkan bersedia memusnahkan seluruh pulau Ohara demi memastikan rahasia itu tetap terkubur.</p>
-    <p>Profesor Clover dari Ohara sendiri sempat hendak mengungkap nama asli Great Kingdom sebelum ia ditembak mati, sebuah adegan yang hingga kini masih dianggap salah satu titik paling krusial dalam misteri ini.</p>
+      <h2>Poneglyph: Satu-satunya Saksi Bisu</h2>
+      <p>Karena semua catatan sejarah resmi telah dimusnahkan, satu-satunya bukti yang tersisa adalah Poneglyph — lempengan batu raksasa yang tidak bisa dihancurkan, diciptakan oleh Keluarga Kouzuki di Wano. World Government melarang keras siapa pun mempelajari atau menerjemahkan Poneglyph, bahkan bersedia memusnahkan seluruh pulau Ohara demi memastikan rahasia itu tetap terkubur.</p>
+      <p>Profesor Clover dari Ohara sendiri sempat hendak mengungkap nama asli Great Kingdom sebelum ia ditembak mati, sebuah adegan yang hingga kini masih dianggap salah satu titik paling krusial dalam misteri ini.</p>
 
-    <blockquote>
-      Menurut catatan yang diketahui, Clover meyakini nama kerajaan itu sendiri adalah kunci untuk memahami seluruh kebenaran di balik Void Century.
-    </blockquote>
+      <blockquote>
+        Menurut catatan yang diketahui, Clover meyakini nama kerajaan itu sendiri adalah kunci untuk memahami seluruh kebenaran di balik Void Century.
+      </blockquote>
 
-    <h2>Joy Boy: Bajak Laut Pertama yang Ditinggalkan Sejarah</h2>
-    <p>Nama Joy Boy pertama kali muncul lewat Poneglyph yang dibaca Nico Robin di Hutan Laut, Fishman Island. Sosok ini dipercaya sebagai pengguna pertama Buah Iblis Hito Hito no Mi: Model Nika, dan disebut-sebut sebagai bajak laut pertama dalam sejarah. Ia pernah membuat sebuah janji dengan penduduk Fishman Island terkait Noah, namun gagal menepatinya — dan meninggalkan permintaan maaf yang terukir di salah satu Road Poneglyph.</p>
-    <p>Joy Boy jugalah yang dipercaya meninggalkan harta karun di Laugh Tale, pulau yang kelak ditemukan Gol D. Roger dan dinamai One Piece.</p>
+      <h2>Joy Boy: Bajak Laut Pertama yang Ditinggalkan Sejarah</h2>
+      <p>Nama Joy Boy pertama kali muncul lewat Poneglyph yang dibaca Nico Robin di Hutan Laut, Fishman Island. Sosok ini dipercaya sebagai pengguna pertama Buah Iblis Hito Hito no Mi: Model Nika, dan disebut-sebut sebagai bajak laut pertama dalam sejarah. Ia pernah membuat sebuah janji dengan penduduk Fishman Island terkait Noah, namun gagal menepatinya — dan meninggalkan permintaan maaf yang terukir di salah satu Road Poneglyph.</p>
+      <p>Joy Boy jugalah yang dipercaya meninggalkan harta karun di Laugh Tale, pulau yang kelak ditemukan Gol D. Roger dan dinamai One Piece.</p>
 
-    <h2>Teori-Teori Liar dari Komunitas Fans</h2>
-    <p>Selain fakta-fakta yang sudah dikonfirmasi manga, komunitas fans — terutama di Reddit — juga rajin mengembangkan teori-teori spekulatif mereka sendiri. Berikut beberapa yang paling ramai dibicarakan:</p>
+      <h2>Teori-Teori Liar dari Komunitas Fans</h2>
+      <p>Selain fakta-fakta yang sudah dikonfirmasi manga, komunitas fans — terutama di Reddit — juga rajin mengembangkan teori-teori spekulatif mereka sendiri. Berikut beberapa yang paling ramai dibicarakan:</p>
 
-    <h3>1. Joy Boy Sebenarnya Adalah Sebuah Mainan</h3>
-    <p>Salah satu teori paling unik datang dari pengguna Reddit dengan nama akun 00-000-001-0-01. Ia mengamati bahwa siluet ikonik Joy Boy memiliki kaki yang sangat tipis dan tangan berbentuk seperti cakar, mirip dengan boneka-boneka yang pernah muncul di Dressrosa. Menurut teori ini, Joy Boy bukanlah manusia, melainkan mainan buatan bangsa raksasa yang kemudian "dihidupkan" setelah diberi kekuatan Buah Nika, lalu berkelana menyebarkan kebahagiaan ke seluruh dunia — sesuai namanya.</p>
+      <h3>1. Joy Boy Sebenarnya Adalah Sebuah Mainan</h3>
+      <p>Salah satu teori paling unik datang dari pengguna Reddit dengan nama akun 00-000-001-0-01. Ia mengamati bahwa siluet ikonik Joy Boy memiliki kaki yang sangat tipis dan tangan berbentuk seperti cakar, mirip dengan boneka-boneka yang pernah muncul di Dressrosa. Menurut teori ini, Joy Boy bukanlah manusia, melainkan mainan buatan bangsa raksasa yang kemudian "dihidupkan" setelah diberi kekuatan Buah Nika, lalu berkelana menyebarkan kebahagiaan ke seluruh dunia — sesuai namanya.</p>
 
-    <h3>2. World Government Sebenarnya Berasal dari Luar Angkasa</h3>
-    <p>Teori lain yang cukup populer menyebutkan bahwa peradaban yang membangun Shandora sebenarnya berasal dari Bulan, dan bahwa "Mooninite" ini kemudian turun ke Bumi dan menjadi cikal bakal kekuatan yang sekarang menjadi World Government. Teori ini didasarkan pada penemuan reruntuhan kota kuno di Bulan yang ditunjukkan dalam cerita sampul Enel, lengkap dengan robot Automata dan lukisan dinding yang menggambarkan interaksi antara penduduk Skypiea, Shandia, dan Birkan.</p>
+      <h3>2. World Government Sebenarnya Berasal dari Luar Angkasa</h3>
+      <p>Teori lain yang cukup populer menyebutkan bahwa peradaban yang membangun Shandora sebenarnya berasal dari Bulan, dan bahwa "Mooninite" ini kemudian turun ke Bumi dan menjadi cikal bakal kekuatan yang sekarang menjadi World Government. Teori ini didasarkan pada penemuan reruntuhan kota kuno di Bulan yang ditunjukkan dalam cerita sampul Enel, lengkap dengan robot Automata dan lukisan dinding yang menggambarkan interaksi antara penduduk Skypiea, Shandia, dan Birkan.</p>
 
-    <h3>3. One Piece adalah Kunci untuk Membatalkan Senjata Kuno</h3>
-    <p>Ada juga teori yang mengaitkan harta karun One Piece langsung dengan Senjata Kuno. Sebagian fans percaya One Piece adalah senjata kuno keempat yang belum diketahui, sementara sebagian lain justru berpendapat harta itu adalah alat untuk menetralisir kekuatan destruktif Pluton, Poseidon, dan Uranus — sehingga siapa pun yang menemukannya bisa mengakhiri ancaman perang dunia untuk selamanya.</p>
+      <h3>3. One Piece adalah Kunci untuk Membatalkan Senjata Kuno</h3>
+      <p>Ada juga teori yang mengaitkan harta karun One Piece langsung dengan Senjata Kuno. Sebagian fans percaya One Piece adalah senjata kuno keempat yang belum diketahui, sementara sebagian lain justru berpendapat harta itu adalah alat untuk menetralisir kekuatan destruktif Pluton, Poseidon, dan Uranus — sehingga siapa pun yang menemukannya bisa mengakhiri ancaman perang dunia untuk selamanya.</p>
 
-    <h3>4. Sejarah Berulang: Lulusia sebagai "Void Century Kedua"</h3>
-    <p>Setelah kerajaan Lulusia dimusnahkan tanpa jejak oleh Imu pasca-Raid Onigashima, banyak fans langsung menghubungkannya dengan pola yang sama seperti kehancuran Great Kingdom ratusan tahun lalu. Naiknya permukaan laut secara misterius beberapa hari setelah insiden itu dianggap sebagai bukti bahwa World Government—atau Imu—kembali menggunakan Senjata Kuno untuk menutupi kesalahan mereka, persis seperti yang diduga terjadi di akhir Void Century.</p>
+      <h3>4. Sejarah Berulang: Lulusia sebagai "Void Century Kedua"</h3>
+      <p>Setelah kerajaan Lulusia dimusnahkan tanpa jejak oleh Imu pasca-Raid Onigashima, banyak fans langsung menghubungkannya dengan pola yang sama seperti kehancuran Great Kingdom ratusan tahun lalu. Naiknya permukaan laut secara misterius beberapa hari setelah insiden itu dianggap sebagai bukti bahwa World Government—atau Imu—kembali menggunakan Senjata Kuno untuk menutupi kesalahan mereka, persis seperti yang diduga terjadi di akhir Void Century.</p>
 
-    <h2>Kesimpulan Sementara</h2>
-    <p>Sampai saat ini, Oda belum mengonfirmasi kebenaran di balik nama asli Great Kingdom maupun identitas asli Joy Boy. Namun dari berbagai potongan informasi yang sudah terungkap, semakin jelas bahwa Void Century bukan sekadar latar belakang sejarah biasa — melainkan kunci utama untuk memahami seluruh struktur kekuasaan, teknologi, dan bahkan asal-usul Buah Iblis dalam dunia One Piece.</p>
-    <p>Artikel ini akan terus diupdate seiring info baru dari manga.</p>
-  `,
-},
+      <h2>Kesimpulan Sementara</h2>
+      <p>Sampai saat ini, Oda belum mengonfirmasi kebenaran di balik nama asli Great Kingdom maupun identitas asli Joy Boy. Namun dari berbagai potongan informasi yang sudah terungkap, semakin jelas bahwa Void Century bukan sekadar latar belakang sejarah biasa — melainkan kunci utama untuk memahami seluruh struktur kekuasaan, teknologi, dan bahkan asal-usul Buah Iblis dalam dunia One Piece.</p>
+      <p>Artikel ini akan terus diupdate seiring info baru dari manga.</p>
+    `,
+  },
   {
     id: "kekuatan-admiral-baru",
     title: "Admiral Baru vs Yonko: Siapa yang Lebih Kuat?",
