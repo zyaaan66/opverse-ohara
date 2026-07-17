@@ -1,6 +1,5 @@
 # ☠ Opverse Ohara — Portal One Piece
 
-Portal artikel analisis, teori, dan lore One Piece. Static site siap deploy di GitHub Pages.
 Link Demo : https://zyaaan66.github.io/opverse-ohara/
 ---
 
